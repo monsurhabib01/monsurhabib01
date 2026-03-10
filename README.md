@@ -38,5 +38,5 @@ I believe in learning in public. I document my experiences, explain complex topi
 
 I'm always open to connecting with fellow learners, developers, and potential employers.
 
-- **LinkedIn:** [আপনার লিঙ্কডইন প্রোফাইলের লিঙ্ক এখানে যোগ করুন]
-- **Email:** [monsurhabib01@gmail.com]
+- **LinkedIn:** https://www.linkedin.com/in/mohammad-monsur-habib/                         
+- **Email:**    monsurhabib01@gmail.com
