@@ -30,5 +30,3 @@ business-ready deliverables.
 - 📧 monsurhabib01@gmail.com
 ```
 
-Commit message:
-
