@@ -1,67 +1,68 @@
-# 👋 Hi there, I'm Monsur Habib!
+excel data-analysis portfol# 🧹 GlobalTextiles CRM Data Cleaning
 
-I'm a **Data Analyst** from Bangladesh, passionate about turning messy data into clear business insights.
-
-Specializing in **data cleaning, visualization, and reporting** for freelance clients — with a focus on practical, business-ready deliverables.
+**Client Project** | Excel Data Cleaning & HubSpot CRM Integration
 
 ---
 
-## 🚀 My Focus Areas
+## 📌 Project Overview
 
-- 🧹 **Data Cleaning** — Excel, Python (Pandas)
-- 📊 **Visualization** — Charts & Reports
-- 📋 **Reporting** — Structured insight reports for clients
-- 🗄️ **Database** — SQL for data extraction
-- 🤝 **CRM Management** — HubSpot, Apollo
-
----
-
-## 🛠️ Tools
-
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/POWERBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![HubSpot](https://img.shields.io/badge/HUBSPOT-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+A freelance data cleaning and CRM integration project for a 
+global textile supplies client. Raw contact data was cleaned, 
+standardized, and imported into HubSpot CRM with full 
+field mapping and company linking.
 
 ---
 
-## 💼 Freelance Services
+## 📊 Dataset
 
-- 🧹 Data Cleaning & Standardization
-- 📊 Data Visualization & Reporting
-- 📁 Excel Automation & CRM Management
-- 🔍 Data Entry & Lead Management
-
----
-
-## 📁 Featured Projects
-
-| # | Project | Tools | Result |
-|---|---------|-------|--------|
-| 01 | [Global Textiles CRM Import](https://github.com/monsurhabib01/data-cleaning-projects/tree/main/project-01-globaltextiles) | Excel, HubSpot | Deduplicated B2B contacts, CRM-ready import |
-| 02 | [Workforce Data Filtering](https://github.com/monsurhabib01/data-cleaning-projects/tree/main/project-02-workforce-data-filtering) | Python, Pandas | 821 rows → 464 clean records with audit trail |
-| 03 | [Retail Sales Data Cleaning](https://github.com/monsurhabib01/data-cleaning-projects/tree/main/project-03-sales-data-cleaning) | Python, Pandas | 1,280-row dataset — nulls, duplicates, date normalization |
-| 04 | [Triageist — ER Triage Prediction](https://www.kaggle.com/code/monsurhabib/triageist) | Python, Scikit-learn | Random Forest classifier, Kaggle Hackathon 2026 ($10K prize pool) |
+| Property | Details |
+|----------|---------|
+| Records | 25 contacts |
+| Columns | Person Name, Email Address, Company Name, Job Title, Phone Number |
+| Format | Excel (.xlsx) → Exported as CSV |
 
 ---
 
-## 🔭 Currently Working On
+## ✅ Work Performed
 
-- 🏥 Kaggle Hackathon — ESI Triage Acuity Prediction (Deadline: April 22, 2026)
-- 📦 Building client-ready freelance portfolio (Fiverr + Upwork)
-- 🎯 Long-term goal: AML Data Analysis with Python
+### 1. Data Formatting
+- Standardized all columns (name casing, spacing)
+- Formatted phone numbers to consistent format
+- Fixed company name spelling inconsistencies
+
+### 2. Duplicate Removal (3 Methods)
+- Method 1: Excel built-in Remove Duplicates
+- Method 2: COUNTIF formula-based detection
+- Method 3: Conditional Formatting highlight
+
+### 3. Sheet Organization
+- `Raw Data` — original unmodified data
+- `Clean Data` — fully processed records
+- `Removed Data` — duplicate/invalid entries
+
+### 4. CSV Export
+- Clean data exported as `.csv` for CRM import
+
+### 5. HubSpot CRM Integration
+- Imported clean CSV into HubSpot
+- Field/point mapping configured
+- Created new company records
+- Linked contacts to companies
+- Email linking completed
 
 ---
 
-## 🔗 Connect
+## 🛠️ Tools Used
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmonsurhabib)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habibmonsur01@gmail.com)
-[![Fiverr](https://img.shields.io/badge/FIVERR-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/mdmonsurhabib)
-[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/monsurhabib)
+---
 
-🌐 [aitipseveryday.com](https://aitipseveryday.com)
+## 📁 Files
+| File | Description |
+|------|-------------|
+| `*.xlsx` | Excel workbook with Raw, Clean & Removed sheets |
+| `*.csv` | Exported clean data for CRM import |
+| `*.png` | Screenshots of process/output |
+```
+
