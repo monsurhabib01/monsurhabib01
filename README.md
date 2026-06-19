@@ -70,7 +70,7 @@
 
 ### 📫 Contact
 
-- 📧 habibmonsur01@gmail.com
+- 📧 monsurhabib01@gmail.com
 - 💼 [fiverr.com/mdmonsurhabib](https://www.fiverr.com/mdmonsurhabib)
 - 🌐 [aitipseveryday.com](https://aitipseveryday.com)
 
